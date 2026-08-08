@@ -1,4 +1,8 @@
 # New Maintained KF
+
+## Why
+**Because.**
+
 ## Installation
 
 1. You need to extract the game files with this [Tutorial](
