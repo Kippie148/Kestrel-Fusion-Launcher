@@ -8,7 +8,7 @@
 1. You need to extract the game files with this [Tutorial](
 https://www.youtube.com/watch?v=23V5N6YgkEU).
 
-2. Download the setup : [https://github.com/Kippie148/Kestrel-Fusion-Launcher/installer/KF-installer.exe](https://github.com/Kippie148/Kestrel-Fusion-Launcher/installer/KF-installer.exe)
+2. Download the setup : [https://github.com/Kippie148/Kestrel-Fusion-Launcher/blob/main/installer/KF-installer.exe](https://github.com/Kippie148/Kestrel-Fusion-Launcher/blob/main/installer/KF-installer.exe)
 
 3. Open it, if you have windows warning click on "more info" and "run anyway".
 
